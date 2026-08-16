@@ -1,2 +1,3 @@
 # Treader-Demo
-This is y first Git repository.
+This is y first Git Repository.
+Auther-Treader
